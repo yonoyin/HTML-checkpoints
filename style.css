@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(83, 182, 83);
+}
+table {
+    display: inline;
+    color: rgb(3, 71, 71);
+}
+
+h1{
+    text-align: center;
+    
+}
+#onepiece {
+    margin-left: 200px;
+}
+iframe {
+    display:block;
+    margin-left: 500px;
+
+}
+header,main{
+    font-family: 'Roboto', sans-serif;
+}
+
